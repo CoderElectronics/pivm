@@ -18,6 +18,9 @@ Once combined, unzipped, and flashed to your Pi, go to the Pi's IP address in yo
 <br />
 Login with the default username and password, which you can change through your Pi's terminal in Cockpit. Once you are logged in, you can see system information, follow the instructions on the page to go to Cockpit. The default login for Cockpit is the same as the system login.
 
+## Tested ISOs
+Debian ARM: Included in the release ISO <br />
+Ubuntu ARM: <http://cdimage.ubuntu.com/ubuntu/releases/18.04/release/ubuntu-18.04.4-server-arm64.iso>
 
 ### Future Features
 - [ ] Add more styling to the PiVM Web UI
